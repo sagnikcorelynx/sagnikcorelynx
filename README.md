@@ -1,4 +1,4 @@
-# Hello, I'm [Sagnik]!
+# Hello, I'm Sagnik
 
 ## About Me
 I am a Software Engineer with a passion for building scalable and efficient applications. With a strong foundation in both Backend and Frontend technologies, I enjoy solving complex problems and creating solutions that meet business needs.
